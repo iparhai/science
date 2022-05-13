@@ -1,0 +1,377 @@
+{
+    "src": "../../assets/objects/",
+    "objects": [
+        {
+            "name": "1.png",
+            "properties": "object|1"
+        },
+        {
+            "name": "2.png",
+            "properties": "drag|male|counting|female"
+        },
+        {
+            "name": "3.png",
+            "properties": "drag|male|counting|female"
+        },
+        {
+            "name": "4.png",
+            "properties": "drag|male|counting|female"
+        },
+        {
+            "name": "5.png",
+            "properties": "drag|male|counting|female"
+        },
+        {
+            "name": "6.png",
+            "properties": "drag|male|counting|female"
+        },
+        {
+            "name": "7.png",
+            "properties": "drag|male|counting|female|fruit"
+        },
+        {
+            "name": "8.png",
+            "properties": "drag|male|counting|female|fruit"
+        },
+        {
+            "name": "9.png",
+            "properties": "drag|male|counting|female|fruit"
+        },
+        {
+            "name": "10.png",
+            "properties": "drag|male|counting|female|fruit"
+        },
+        {
+            "name": "11.png",
+            "properties": "drag|male|counting|female|fruit"
+        },
+        {
+            "name": "12.png",
+            "properties": "drag|male|counting|female|fruit"
+        },
+        {
+            "name": "13.png",
+            "properties": "drag|male|counting|female"
+        },
+        {
+            "name": "14.png",
+            "properties": "drag|male|counting|female|fruit"
+        },
+        {
+            "name": "15.png",
+            "properties": "drag|male|counting|female|fruit"
+        },
+        {
+            "name": "16.png",
+            "properties": "drag|1|male"
+        },
+        {
+            "name": "17.svg",
+            "properties": "drag|1"
+        },
+        {
+            "name": "18.svg",
+            "properties": "drag|male|10"
+        },
+        {
+            "name": "19.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "20.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "21.png",
+            "properties": "1|drag|male|counting"
+        },
+        {
+            "name": "22.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "23.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "24.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "25.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "26.png",
+            "properties": "button|option"
+        },
+        {
+            "name": "27.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "28.png",
+            "properties": "female|male|counting|writeable"
+        },
+        {
+            "name": "29.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "30.png",
+            "properties": "board"
+        },
+        {
+            "name": "31.png",
+            "properties": "clock|am"
+        },
+        {
+            "name": "32.png",
+            "properties": "clock|hour"
+        },
+        {
+            "name": "33.png",
+            "properties": "clock|min"
+        },
+        {
+            "name": "34.png",
+            "properties": "clock|pm"
+        },
+        {
+            "name": "35.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "36.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "37.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "38.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "39.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "40.png",
+            "properties": "result|button"
+        },
+        {
+            "name": "41.png",
+            "properties": "table"
+        },
+        {
+            "name": "42.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "43.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "44.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "45.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "46.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "47.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "48.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "49.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "50.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "51.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "52.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "53.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "54.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "55.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "56.png",
+            "properties": "button|arrow|left|static"
+        },
+        {
+            "name": "57.png",
+            "properties": "button|arrow|right|static"
+        },
+        {
+            "name": "58.gif",
+            "properties": "numberLine|move|left|male"
+        },
+        {
+            "name": "59.gif",
+            "properties": "numberLine|move|right|male"
+        },
+        {
+            "name": "60.png",
+            "properties": "numberLine|1"
+        },
+        {
+            "name": "61.png",
+            "properties": "numberLine|10"
+        },
+        {
+            "name": "62.gif",
+            "properties": "arrow|alive|left"
+        },
+        {
+            "name": "63.gif",
+            "properties": "arrow|alive|right"
+        },
+        {
+            "name": "64.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "65.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "66.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "67.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "68.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "69.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "70.png",
+            "properties": "drag|counting|5"
+        },
+        {
+            "name": "71.png",
+            "properties": "|female|male|counting|writeable"
+        },
+        {
+            "name": "72.png",
+            "properties": "0|digit"
+        },
+        {
+            "name": "73.png",
+            "properties": "1|digit"
+        },
+        {
+            "name": "74.png",
+            "properties": "2|digit"
+        },
+        {
+            "name": "75.png",
+            "properties": "3|digit"
+        },
+        {
+            "name": "76.png",
+            "properties": "4|digit"
+        },
+        {
+            "name": "77.png",
+            "properties": "5|digit"
+        },
+        {
+            "name": "78.png",
+            "properties": "6|digit"
+        },
+        {
+            "name": "79.png",
+            "properties": "7|digit"
+        },
+        {
+            "name": "80.png",
+            "properties": "8|digit"
+        },
+        {
+            "name": "81.png",
+            "properties": "9|digit"
+        },
+        {
+            "name": "82.png",
+            "properties": "drag|male|counting"
+        },
+        {
+            "name": "83.png",
+            "properties": "female|stone|writeable"
+        },
+        {
+            "name": "84.png",
+            "properties": "male|stone|writeable"
+        },
+        {
+            "name": "85.gif",
+            "properties": "numberLine|move|right|female"
+        },
+        {
+            "name": "86.gif",
+            "properties": "numberLine|move|left|female"
+        },
+        {
+            "name": "87.png",
+            "properties": "drag|counting|10"
+        },
+        {
+            "name": "88.svg",
+            "properties": "object|10"
+        },
+        {
+            "name": "89.svg",
+            "properties": "object|5"
+        },
+        {
+            "name": "90.png",
+            "properties": "object|1|female"
+        },
+        {
+            "name": "91.png",
+            "properties": "object|1|female"
+        },
+        {
+            "name": "92.png",
+            "properties": "object|1|male"
+        },
+        {
+            "name": "93.png",
+            "properties": "object|1|male"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+.humanContainer {
+    width : 40vw;
+    position: absolute;
+    top: 15vh;
+    left : 30vw;
+}
+.human {
+    width : 80%;
+}
+.optionBox {
+    border: 2px wheat solid;
+    background-color: chocolate;
+    color: black;
+    padding: 0.5vw 3vw 0.5vw 3vw ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: medium;
+}
+.options {
+    position: absolute;
+    top: 80vh;
+    left: 20vw;
+}
+.dragBox {
+    background-color: chocolate;
+    color: black;
+    /* padding: 0.5vw 3vw 0.5vw 3vw ; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: large;
+    line-height: 180%;
+}
+.checkAnswer{
+    /* border: 1px solid red; */
+    width: 10%;
+    height: 10%;
+    margin: 0px;
+    color: green;
+    font-size: 150%;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: white;
+    position: absolute;
+    top: 35%;
+    border: 3px green solid;
+    background-color: black;
+    border-radius: 30%;
+    right: 10%;
+}
+.box {
+    position: absolute;
+    width: 10vw;
+    height: 5vh;
+    border: 2px wheat solid;
+}
+.b1 {
+    top: 3vh;
+    left: 30.5vw;
+}
+.b2 {
+    top: 6vh;
+    left: 0.5vw;
+}
+.b3 {
+    top: 12vh;
+    left: 26.5vw;
+}
+.b4 {
+    top: 16vh;
+    left: -1vw;
+}
+.b5 {
+    top: 29vh;
+    left: 31vw;
+}
+.b6 {
+    top: 40vh;
+    left: 31.5vw;
+}
+.b7 {
+    top: 42vh;
+    left: -2.5vw;
+}
+.b8 {
+    top: 54vh;
+    left: 34vw;
+}
+.b9 {
+    top: 62vh;
+    left: 28.5vw;
+}
+
